@@ -7,5 +7,4 @@ Duas soluções para a exercício sugerido pela Minuto Seguros.
 
 2) C#, em forma de console. São fornecidos os arquivos necessários para serem utilizados no Visual Studio 2013.
 
-[]´s
 Ender (Luiz Imbroisi)
