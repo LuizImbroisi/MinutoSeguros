@@ -10,7 +10,7 @@
             Formato da lista: objeto JSON -> [{"palavra":"Carro", "cnt": 20},etc...]
 
 
-    P.e.:
+    p.e.:
 
     minSegs.getLista(teste, "blog/feed/");
 
