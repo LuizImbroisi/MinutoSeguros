@@ -132,7 +132,6 @@ namespace EnderWordCount
 				Cnt = cnt;
 			}
 		}
-
 	}
 }
 
